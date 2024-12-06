@@ -33,6 +33,5 @@ cout<<"Fahsai: " <<day<<"....that is OK!!! I'm looking forward to watching "<<mo
 getline(cin,ans);
 cout<<name <<": ";
 cout<<"Fahsai: 555+ see you "<<day<< ". Bye Bye \\(^ ^)/ \n";
-
 return 0;
 }
